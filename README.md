@@ -11,18 +11,18 @@ _check out the NSFW commands yourself, im not showing it here_
 
 # Why are there only some commands in cogs?
 I have coded a lot of commands partially to cogs and partially in golds.py. 
-I'd turn it into cogs if it were'nt for the number of bugs 
+I'd turn it into cogs If it weren't for the number of bugs 
 i dont wanna deal with since i've moved on to new projects.
 if you can turn them into cogs i'd say thanks, just make a pull request! 
 
 
-# Do i plan on improving golds?
-Maybe. since this is an open sourced version, if you want you can add your own commands and make a pull request, im all up for it. 
+# Do I plan on improving golds?
+Maybe. Since this is an open sourced version, If you want you can add your own commands and make a pull request, im all up for it. 
 I've commited around 500 commits in the original, private repository in 5-6 months and I'm pretty proud of it since its my first "kinda big" project.
 
 
-# Will i keep running my golds bot?
-Nah, its the main reason im making the source code public. I'll be taking down golds soon and I believe this can be pretty helpful to someone out there. 
+# Will I keep running my golds bot?
+Nah, it's the main reason im making the source code public. I'll be taking down golds soon and I believe this can be pretty helpful to someone out there. 
 
 
 # Donate 
