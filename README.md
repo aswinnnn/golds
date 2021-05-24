@@ -6,7 +6,7 @@ A crazy, weird discord bot with crazy, weird commands.
 # What does this bot possess?
 This bot, or its source code, comes with incredibly ardous lines of code with totally original commands. heres a bit of em for you to see: 
 ![help commmand](https://i.imgur.com/c3WHvpd.jpeg)
-_check out the NSFW commands yourself, im not showing it here _
+_check out the NSFW commands yourself, im not showing it here_
 
 
 # Why are there only some commands in cogs?
