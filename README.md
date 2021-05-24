@@ -24,6 +24,6 @@ Nah, its the main reason im making the source code public. I'll be taking down g
 
 # donate 
 I see every developer doing this so why not
-
 [Buy me a Coffee](https://ko-fi.com/goldenboi)
+
 ![donate preview](https://images-ext-1.discordapp.net/external/3RY7fT9aGxTX6iP2S5Os80w4wyilIut4KC3nYY779Yw/https/storage.ko-fi.com/cdn/useruploads/86ab135f-0cc5-4217-9816-20c4602f82c7.png?width=814&height=443)
