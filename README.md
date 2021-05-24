@@ -1,13 +1,13 @@
 # golds
 A crazy, weird discord bot with crazy, weird commands.
 
-`
-the code provided is intended for education purposes only. I take absolutely no responsibility on how you'd like to use the code. All methods of data retrival are for educational purposes and not meant to break any policy/TOS of any website or company.
-`
+`the code provided is intended for education purposes only. I take absolutely no responsibility on how you'd like to use the code. All methods of data retrival are for educational purposes and not meant to break any policy/TOS of any website or company.`
 
 # what does this bot possess?
 This bot, or its source code, comes with incredibly ardous lines of code with totally original commands. heres a bit of em for you to see: 
 ![help commmand](https://i.imgur.com/c3WHvpd.jpeg)
+_check out the NSFW commands yourself, im not showing it here 😭_
+
 
 # why are there only some commands in cogs?
 I have coded a lot of commands partially to cogs and partially in golds.py. 
@@ -20,4 +20,9 @@ Maybe. since this is an open sourced version, if you want you can add your own c
 I've commited around 500 commits in the original, private repository in 5-6 months and I'm pretty proud of it since its my first "kinda big" project.
 
 # will i keep running my golds bot?
-nah, its the main reason im making the source code public. I'll be taking down golds soon and I just dont want my work to sit there lol.
+Nah, its the main reason im making the source code public. I'll be taking down golds soon and I believe this can be pretty helpful to someone out there. 
+
+# donate 
+I see every developer doing this so why not
+[Donate](https://ko-fi.com/goldenboi)
+![donate preview](https://images-ext-1.discordapp.net/external/3RY7fT9aGxTX6iP2S5Os80w4wyilIut4KC3nYY779Yw/https/storage.ko-fi.com/cdn/useruploads/86ab135f-0cc5-4217-9816-20c4602f82c7.png?width=814&height=443)
