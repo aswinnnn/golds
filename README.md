@@ -8,3 +8,16 @@ the code provided is intended for education purposes only. I take absolutely no 
 # what does this bot possess?
 This bot, or its source code, comes with incredibly ardous lines of code with totally original commands. heres a bit of em for you to see: 
 ![help commmand](https://i.imgur.com/c3WHvpd.jpeg)
+
+# why are there only some commands in cogs?
+I have coded a lot of commands partially to cogs and partially in golds.py. 
+I'd turn it into cogs if it were'nt for the number of bugs 
+i dont wanna deal with since i've moved on to new projects.
+if you can turn them into cogs i'd say thanks, just make a pull request! 
+
+# do i plan on improving golds?
+Maybe. since this is an open sourced version, if you want you can add your own commands and make a pull request, im all up for it. 
+I've commited around 500 commits in the original, private repository in 5-6 months and I'm pretty proud of it since its my first "kinda big" project.
+
+# will i keep running my golds bot?
+nah, its the main reason im making the source code public. I'll be taking down golds soon and I just dont want my work to sit there lol.
